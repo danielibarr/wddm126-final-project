@@ -6,4 +6,9 @@ function greet() {
     console.log(projectTitle);
 }
 
+function featureMessage() {
+    console.log("Feature branch: About section enhanced!");
+}
+
 greet();
+featureMessage();
