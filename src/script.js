@@ -1,7 +1,9 @@
 let projectName = "WDDM 126 Final Project";
+let projectTitle = "WDDM 126 Final Project";
 
 function greet() {
     console.log(`Welcome to ${projectName}!`);
+    console.log(projectTitle);
 }
 
 greet();
